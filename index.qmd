@@ -1,16 +1,101 @@
 ---
 title: "Sistemas Operacionais"
-subtitle: "FATEC — 2º Semestre de 2026"
+page-layout: full
+toc: false
+title-block-banner: false
 ---
 
-## Bem-vindo
+<div class="terminal-home">
 
-Este é o portal da disciplina de **Sistemas Operacionais**.
+<div class="terminal-window">
 
-Aqui serão publicados:
+<div class="terminal-bar">
+  <span class="terminal-dot"></span>
+  <span class="terminal-dot"></span>
+  <span class="terminal-dot"></span>
+  <span class="terminal-title">fatec@iso001: ~/sistemas-operacionais</span>
+</div>
 
-- materiais das aulas;
-- cronograma da disciplina;
-- atividades e laboratórios;
-- materiais complementares;
-- informações sobre o Projeto Integrador.
+<div class="terminal-body">
+
+<div class="terminal-prompt">
+<span class="prompt-user">fatec@iso001</span><span class="prompt-sep">:</span><span class="prompt-path">~/sistemas-operacionais</span><span class="prompt-symbol">$</span>
+<span class="prompt-command">cat disciplina.txt</span>
+</div>
+
+<div class="terminal-hero">
+
+<div class="terminal-code">ISO-001 / FATEC / 2026-2</div>
+
+<h1>
+Sistemas Operacionais
+<span class="cursor">_</span>
+</h1>
+
+<p>
+tecnologia / prática / projeto / evolução
+</p>
+
+</div>
+
+<div class="terminal-prompt">
+<span class="prompt-user">fatec@iso001</span><span class="prompt-sep">:</span><span class="prompt-path">~/sistemas-operacionais</span><span class="prompt-symbol">$</span>
+<span class="prompt-command">ls</span>
+</div>
+
+<div class="terminal-nav">
+
+<a href="cronograma.qmd">
+  <span class="terminal-nav-index">01</span>
+  <i class="bi bi-calendar3"></i>
+  <span>cronograma/</span>
+</a>
+
+<a href="aulas.qmd">
+  <span class="terminal-nav-index">02</span>
+  <i class="bi bi-mortarboard"></i>
+  <span>aulas/</span>
+</a>
+
+<a href="projeto.qmd">
+  <span class="terminal-nav-index">03</span>
+  <i class="bi bi-diagram-3"></i>
+  <span>projeto/</span>
+</a>
+
+<a href="materiais.qmd">
+  <span class="terminal-nav-index">04</span>
+  <i class="bi bi-folder2-open"></i>
+  <span>materiais/</span>
+</a>
+
+</div>
+
+<div class="terminal-prompt">
+<span class="prompt-user">fatec@iso001</span><span class="prompt-sep">:</span><span class="prompt-path">~/sistemas-operacionais</span><span class="prompt-symbol">$</span>
+<span class="prompt-command">status</span>
+</div>
+
+<div class="terminal-text-block">
+
+<h2>Sistemas Operacionais</h2>
+
+<p>
+Este portal concentra cronograma, aulas, materiais e informações
+sobre o Projeto Integrador da disciplina.
+</p>
+
+<p>
+O conteúdo será atualizado gradativamente ao longo de 2º Semestre de 2026.
+</p>
+
+</div>
+
+<div class="terminal-final-prompt">
+<span class="prompt-user">fatec@iso001</span><span class="prompt-sep">:</span><span class="prompt-path">~/sistemas-operacionais</span><span class="prompt-symbol">$</span>
+<span class="cursor">_</span>
+</div>
+
+</div>
+</div>
+</div>

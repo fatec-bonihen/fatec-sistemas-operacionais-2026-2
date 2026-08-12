@@ -1,0 +1,16 @@
+---
+title: "Sistemas Operacionais"
+subtitle: "FATEC — 2º Semestre de 2026"
+---
+
+## Bem-vindo
+
+Este é o portal da disciplina de **Sistemas Operacionais**.
+
+Aqui serão publicados:
+
+- materiais das aulas;
+- cronograma da disciplina;
+- atividades e laboratórios;
+- materiais complementares;
+- informações sobre o Projeto Integrador.

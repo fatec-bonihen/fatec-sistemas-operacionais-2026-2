@@ -4,20 +4,42 @@ project:
 
 website:
   title: "Sistemas Operacionais"
+
   navbar:
+    background: dark
+    foreground: light
+
     left:
       - href: index.qmd
         text: Início
+        icon: house
+
       - href: cronograma.qmd
         text: Cronograma
+        icon: calendar3
+
       - href: aulas.qmd
         text: Aulas
+        icon: mortarboard
+
       - href: projeto.qmd
         text: Projeto
+        icon: diagram-3
+
       - href: materiais.qmd
         text: Materiais
+        icon: folder2-open
+
+  page-footer:
+    left: "FATEC · Sistemas Operacionais — ISO-001"
+    right: "2º Semestre de 2026"
 
 format:
   html:
     toc: true
-    theme: cosmo
+    theme: darkly
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    link-external-newwindow: true

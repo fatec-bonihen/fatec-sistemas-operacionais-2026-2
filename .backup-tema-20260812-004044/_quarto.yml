@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sistemas Operacionais"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - href: cronograma.qmd
+        text: Cronograma
+      - href: aulas.qmd
+        text: Aulas
+      - href: projeto.qmd
+        text: Projeto
+      - href: materiais.qmd
+        text: Materiais
+
+format:
+  html:
+    toc: true
+    theme: cosmo
